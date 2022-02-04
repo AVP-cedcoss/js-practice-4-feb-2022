@@ -1,0 +1,59 @@
+body
+{
+    background-color: lightgray;
+}
+#main div h4
+{
+    margin: auto;
+    padding: 6px 10px;
+    font-size: larger;
+}
+#main
+{
+    /* border: 2px solid red;  */
+    text-align: center;
+}
+#main div
+{
+    /* border: 2px solid yellow; */
+    padding: 2%;
+    margin: 2%;
+    padding-bottom: 0%;
+    margin-bottom: 0%;
+}
+#main input[type="number"]
+{
+    border: none;
+    margin-top: 2%;
+    margin-bottom: 3%;
+    padding: 6px 10px;
+    text-align: center;
+    width: auto;
+    border-radius: 12px;
+}
+#main input[type="radio"]
+{
+    margin-right: 10px;
+}
+#calculate
+{
+    padding: 8px 15px;
+    background-color: rgb(185, 173, 168);
+    color: rgb(0, 0, 0);
+    border-radius: 12px;
+    width: 45%;
+}
+/* #footer
+{
+    width: auto;
+    text-align: center;
+}
+*/
+#result
+{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    color: midnightblue;
+    font-weight: 700;
+    margin-top: 0%;
+}
